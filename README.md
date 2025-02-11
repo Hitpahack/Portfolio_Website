@@ -13,11 +13,11 @@ This is my **personal portfolio website**, showcasing my **skills, projects, exp
 
 
 ## 📸 Screenshots (Optional)  
-_Add images of your portfolio website here to give a quick preview._  
+![image](https://github.com/user-attachments/assets/477852e9-b466-4c33-915b-0eaf1d677ac8)
+
 
 ## 🌍 Live Demo  
-🔗 [Visit My Portfolio](https://hiteshpatodiaportfolio.netlify.app/) _(Replace # with your portfolio URL)_  
-
+🔗 [Visit My Portfolio](https://hiteshpatodiaportfolio.netlify.app/) 
 ## 🚀 Getting Started  
 
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
