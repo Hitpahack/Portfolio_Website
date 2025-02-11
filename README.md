@@ -11,12 +11,6 @@ This is my **personal portfolio website**, showcasing my **skills, projects, exp
 ✅ **Blog (Optional)** – A section where I share my knowledge, coding tips, and experiences.  
 ✅ **Contact Section** – Easy ways to reach out to me via **email, LinkedIn, GitHub, and social media**.  
 
-## 🛠️ Tech Stack  
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB / SQL (optional based on your use)  
-- **Version Control:** Git & GitHub  
-- **Deployment:** Vercel / Netlify / GitHub Pages  
 
 ## 📸 Screenshots (Optional)  
 _Add images of your portfolio website here to give a quick preview._  
