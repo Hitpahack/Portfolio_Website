@@ -1,7 +1,7 @@
 # 🌐 My Portfolio Website   
 
 ## 🚀 About the Project  
-This is my **personal portfolio website**, showcasing my **skills, projects, experience, and achievements** as a **software developer**. The website provides a professional and interactive way to **connect with recruiters, clients, and tech enthusiasts**.  
+This is my **personal portfolio website**, showcasing my **skills, projects, experience, and achievements** as a **software developer**. The website provides a professional and interactive way to **connect with recruiters, clients, and tech enthusiasts** 
 
 ## ✨ Features  
 ✅ **Introduction & About Me** – A brief overview of who I am and what I do.  
